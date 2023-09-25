@@ -40,4 +40,4 @@ async def randomemoji(ctx):
     await ctx.send(emoji_olusturucu())    
 
 
-bot.run("MTE1MzM3MTIxMTA1MzY3MDQyMg.GeP1qc.rYa4Yg-c4fAcaLKN5pOhBBkELWDq1eLrXtr59I")
+bot.run("token yaz")
